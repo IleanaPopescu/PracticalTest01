@@ -1,0 +1,4 @@
+#Sat Mar 30 18:07:55 EET 2019
+base.0=/home/grigo/Desktop/ileana/PracticalTest01/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

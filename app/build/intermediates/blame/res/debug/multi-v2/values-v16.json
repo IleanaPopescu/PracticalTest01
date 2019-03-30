@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/grigo/Desktop/ileana/PracticalTest01/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/grigo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2657d1d9d89453c6f0f0b47b969df6d3/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/grigo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1ecf80b385564d38e22de012ced10fb7/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
